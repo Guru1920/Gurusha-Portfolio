@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Gurusha-Portfolio/static/css/main.d9ad63c2.css",
+    "main.js": "/Gurusha-Portfolio/static/js/main.e4d24f40.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Gurusha-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/khet.png": "/Gurusha-Portfolio/static/media/khet.be3b4dbe93513541f5a4.png",
+    "static/media/dog.png": "/Gurusha-Portfolio/static/media/dog.d4ceebeb1b943d48169c.png",
+    "static/media/img3.png": "/Gurusha-Portfolio/static/media/img3.85da1525913f3b8994b5.png",
+    "static/media/drum.png": "/Gurusha-Portfolio/static/media/drum.35981f99644fabbf5c96.png",
+    "static/media/Gurusha Rahul_Resume.pdf": "/Gurusha-Portfolio/static/media/Gurusha Rahul_Resume.3da7f0ed388e0679d9fa.pdf",
+    "static/media/guru1.png": "/Gurusha-Portfolio/static/media/guru1.1bae1b8815f783ba4477.png",
+    "static/media/dice.png": "/Gurusha-Portfolio/static/media/dice.8c312e442c33c4a83085.png",
+    "static/media/logo.png": "/Gurusha-Portfolio/static/media/logo.48cceff7c12421168004.png",
+    "static/media/home-bg.jpg": "/Gurusha-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/siman.png": "/Gurusha-Portfolio/static/media/siman.485e2b5fad46ca906089.png",
+    "static/media/avatar.svg": "/Gurusha-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Gurusha-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Gurusha-Portfolio/index.html",
+    "main.d9ad63c2.css.map": "/Gurusha-Portfolio/static/css/main.d9ad63c2.css.map",
+    "main.e4d24f40.js.map": "/Gurusha-Portfolio/static/js/main.e4d24f40.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Gurusha-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ad63c2.css",
+    "static/js/main.e4d24f40.js"
+  ]
+}
